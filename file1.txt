@@ -4,3 +4,4 @@ Second cycle commit 2 on branch1
 Second cycle commit 3 on branch1
 Third cycle commit 1 on branch1
 Third cycle commit 2 on branch1
+Third cycle commit 3 on branch1
